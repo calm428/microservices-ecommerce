@@ -6,13 +6,13 @@
 
 <!-- Describe your project in brief -->
 
-<!-- [![deploy-manifests](https://github.com/thasup/microservices-ecommerce/actions/workflows/deploy-manifests.yaml/badge.svg)](https://github.com/thasup/microservices-ecommerce/actions/workflows/deploy-manifests.yaml) -->
+<!-- [![deploy-manifests](https://github.com/calm428/microservices-ecommerce/actions/workflows/deploy-manifests.yaml/badge.svg)](https://github.com/thasup/microservices-ecommerce/actions/workflows/deploy-manifests.yaml) -->
 
-[![deploy-client](https://github.com/thasup/microservices-ecommerce/actions/workflows/deploy-client.yaml/badge.svg)](https://github.com/thasup/microservices-ecommerce/actions/workflows/deploy-client.yaml)
-[![deploy-user](https://github.com/thasup/microservices-ecommerce/actions/workflows/deploy-user.yml/badge.svg)](https://github.com/thasup/microservices-ecommerce/actions/workflows/deploy-user.yml)
-[![deploy-product](https://github.com/thasup/microservices-ecommerce/actions/workflows/deploy-product.yaml/badge.svg)](https://github.com/thasup/microservices-ecommerce/actions/workflows/deploy-product.yaml)
-[![deploy-order](https://github.com/thasup/microservices-ecommerce/actions/workflows/deploy-order.yaml/badge.svg)](https://github.com/thasup/microservices-ecommerce/actions/workflows/deploy-order.yaml)
-[![deploy-payment](https://github.com/thasup/microservices-ecommerce/actions/workflows/deploy-payment.yaml/badge.svg)](https://github.com/thasup/microservices-ecommerce/actions/workflows/deploy-payment.yaml)
+[![deploy-client](https://github.com/calm428/microservices-ecommerce/actions/workflows/deploy-client.yaml/badge.svg)](https://github.com/calm428/microservices-ecommerce/actions/workflows/deploy-client.yaml)
+[![deploy-user](https://github.com/calm428/microservices-ecommerce/actions/workflows/deploy-user.yml/badge.svg)](https://github.com/calm428/microservices-ecommerce/actions/workflows/deploy-user.yml)
+[![deploy-product](https://github.com/calm428/microservices-ecommerce/actions/workflows/deploy-product.yaml/badge.svg)](https://github.com/calm428/microservices-ecommerce/actions/workflows/deploy-product.yaml)
+[![deploy-order](https://github.com/calm428/microservices-ecommerce/actions/workflows/deploy-order.yaml/badge.svg)](https://github.com/calm428/microservices-ecommerce/actions/workflows/deploy-order.yaml)
+[![deploy-payment](https://github.com/calm428/microservices-ecommerce/actions/workflows/deploy-payment.yaml/badge.svg)](https://github.com/calm428/microservices-ecommerce/actions/workflows/deploy-payment.yaml)
 
 Aurapan is a women's clothing e-commerce website that features a fully operational **microservices architecture**. Built on the **Next.js** framework for the client-side, while the server-side is developed with **TypeScript and Express** framework, the website is developed on the **Google Cloud Platform** environment and integrated with automation testing through **GitHub Action** workflows. Deployed on a **DigitalOcean** cluster with a Let's Encrypt certificate, Aurapan delivers a secure and seamless shopping experience.
 
@@ -33,11 +33,11 @@ Aurapan is a women's clothing e-commerce website that features a fully operation
 
 [(Back to top)](#table-of-contents)
 
-<!-- The Live demo is currently _**terminated**_ due to the high-cost maintenance for paying Kubernetes cluster to host the microservices website. -->
+The Live demo is currently _**terminated**_ due to the high-cost maintenance for paying Kubernetes cluster to host a microservices website. 😆
 
-<!-- _You can still run it manually with docker-desktop on a local computer._ -->
+_You can still run it manually with docker-desktop on your local machine._
 
-To experience Aurapan, please visit [www.aurapan.com](https://www.aurapan.com/). 
+<!-- To experience Aurapan, please visit [www.aurapan.com](https://www.aurapan.com/). -->
 
 # Features
 
